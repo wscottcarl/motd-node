@@ -1,0 +1,10 @@
+{
+    "name": "motd-server",
+    "version": "1.0.0",
+    "description": "A basic Node.js HTTP server that returns the message of the day",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "wscottcarl"
+}
